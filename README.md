@@ -1,7 +1,9 @@
 # Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts
 
 Multilingual Distilwhisper allows for better ASR performance in target languages by adding lightweight CLSR modules on top of whisper-small.
-The weights trained for the paper experiments are available at: https://huggingface.co/collections/naver/multilingual-distilwhisper-6576ecae8d209fc6a767d9e7
+
+The pre-trained weights for the [paper](https://arxiv.org/abs/2311.01070) experiments are available [here](https://huggingface.co/collections/naver/multilingual-distilwhisper-6576ecae8d209fc6a767d9e7).
+
 
 ## Requirements
 
