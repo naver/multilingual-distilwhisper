@@ -31,7 +31,7 @@ Scripts are available at DistilWhisper/train/
 
 Check example at model/inference_example.py
 
-```
+```python
 from transformers import WhisperProcessor
 from DistilWhisper import DistilWhisperForConditionalGeneration
 from datasets import Audio, load_dataset
