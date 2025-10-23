@@ -60,7 +60,8 @@ print(transcription)
 ```
 
 ## Citation
-```
+
+```bib
 @inproceedings{ferraz2024distilwhisper,
   title={Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts},
   author={Ferraz, Thomas Palmeira and Boito, Marcely Zanon and Brun, Caroline and Nikoulina, Vassilina},
